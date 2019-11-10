@@ -1,0 +1,1 @@
+cmd='C:/Users/Vindh/.espressif/tools/cmake/3.13.4/bin/cmake.exe;-DSDKCONFIG=C:/Users/Vindh/Desktop/EC444/Team7-Schuweh-Kuchibhotla-Norell/quest-4/code/ESP/sdkconfig;-DIDF_PATH=C:/Users/Vindh/Desktop/esp-idf;-DEXTRA_COMPONENT_DIRS=C:/Users/Vindh/Desktop/esp-idf/components/bootloader;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
